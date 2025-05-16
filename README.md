@@ -4,7 +4,6 @@ HireHub is a MERN stack job portal application that connects job seekers with re
 ![Preview](public/preview.png)
 
 
-
 ## 🚀 Features
 
 - 👤 User authentication (Register/Login)
@@ -15,7 +14,6 @@ HireHub is a MERN stack job portal application that connects job seekers with re
 - ☁️ Image/file uploads via Cloudinary
 - 🌐 Fully responsive frontend (React + Tailwind)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +37,6 @@ HireHub is a MERN stack job portal application that connects job seekers with re
 - MongoDB Atlas (for cloud database)
 - .env for environment variables
 
----
 
 ## 🔧 Environment Variables (`.env`)
 
@@ -59,17 +56,17 @@ API_SECRET=your_cloudinary_api_secret
 FOLDER_NAME=hirehub
 ```
 # Installation
-# Clone the repo
+## Clone the repo
 ```bash
 git clone https://github.com/Dhvaniparghi2003/HIREHUB.git
 cd Hire_hub_project
 ```
 
-# Install  dependencies
+## Install  dependencies
 ```bash
 npm install
 ```
-# Running the App
+## Running the App
 Make sure MongoDB is running or your Atlas connection is active.
 ```bash
 npm start
